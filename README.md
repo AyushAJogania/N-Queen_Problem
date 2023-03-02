@@ -25,3 +25,7 @@ The main code prompts the user to input the value of N, initializes an empty boa
 
 Contributing: 
 Contributions to this repository are welcome. If you find any issues or have any suggestions for improvement, please create a pull request.
+
+OUTPUT
+![output](https://user-images.githubusercontent.com/82894613/222525565-5751d7a2-6f52-4a0c-bca3-086d64deb514.jpeg)
+
